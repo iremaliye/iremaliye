@@ -19,7 +19,7 @@
 
 ***
 # My Notes
-- ### [Özel Ders Formatında A'dan Z'ye C# 10 Programlama](https://github.com/iremaliye/CSharp_10_Programlama_Egitimi/blob/main/README.md)
+- ### [C# Ders Notları](https://github.com/iremaliye/CSharp_Ders_Notları/blob/main/README.md)
 
 # Work
 - 🌱 I’m currently learning on **C#** and **.NET CORE**
@@ -30,7 +30,7 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iremaliyeakman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iremaliyeakman/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iremaliyeakman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iremaliyeakman/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/irem.aliye/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="iremaliye" height="30" width="30" /></a>
 
 </p>
