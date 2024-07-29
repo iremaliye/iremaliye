@@ -19,7 +19,7 @@
 
 ***
 # My Notes
-- ### [C# Ders Notları](https://github.com/iremaliye/CSharp_Ders_Notları/blob/main/README.md)
+- ### [C# Ders Notları](https://github.com/iremaliye/CSharp_Ders_Notlari/blob/main/README.md)
 
 # Work
 - 🌱 I’m currently learning on **C#** and **.NET CORE**
