@@ -11,7 +11,7 @@
 ***
 
 # Work
-- 🌱 I’m currently learning on **C#** and **.NET CORE**
+- 🌱 I’m currently learning on **C#**, **.NET CORE** and **Java**
 
 - 📫 How to reach me **iremaliyeakman@gmail.com**
 ***
